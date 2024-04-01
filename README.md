@@ -21,7 +21,7 @@ To run the Expense Tracker app locally, follow these steps:
 
 1. **Clone the repository**: 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MhaskeAditya42/exptracker.git
    ```
 
 2. **Install dependencies**:
